@@ -6,8 +6,8 @@
 
  *****
  #### Ordered list
- 1 Explore all the places
- 2 Shopping 
- 3 Tasting different types of foods
+ 1. Explore all the places
+ 2. Shopping 
+ 3. Tasting different types of foods
 
  
