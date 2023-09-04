@@ -34,28 +34,26 @@
 
  ***** 
  #### Code snippet
- >I need to get all "id" and "name" of a big collection I have. An array ob objects, that has array with objects (etc). [https://stackoverflow.com/questions/44043844/map-deep-in-collection]
+
+ > I need to get all "id" and "name" of a big collection I have. An array ob objects, that has array with objects (etc). [https://stackoverflow.com/questions/44043844/map-deep-in-collection]
 
 ```
-/// Power function
-/// @param {Number} $x
-/// @param {Number} $n
-/// @return {Number}
-@function pow($x, $n) {
-  $ret: 1;
-    
-  @if $n >= 0 {
-    @for $i from 1 through $n {
-      $ret: $ret * $x;
-    } 
-  } @else {
-    @for $i from $n to 0 {
-      $ret: $ret / $x;
-    }
-  }
-  
-  @return $ret;
-}
+$o-grid-default-config: (
+    columns: 12,
+    gutter: 10px,
+    min-width: 240px,
+    max-width: 1330px,
+    layouts: (
+        S:  370px,  // ≥20px columns
+        M:  610px,  // ≥40px columns
+        L:  850px,  // ≥60px columns
+        XL: 1090px  // ≥80px columns
+    ),
+    fluid: true,
+    debug: false,
+    fixed-layout: M,
+    enhanced-experience: true
+);
 
 ```
 <br>
