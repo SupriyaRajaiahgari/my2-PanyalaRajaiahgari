@@ -36,7 +36,7 @@
  #### Code snippet
  >I need to get all "id" and "name" of a big collection I have. An array ob objects, that has array with objects (etc). [https://stackoverflow.com/questions/44043844/map-deep-in-collection]
 
-'''
+```
 /// Power function
 /// @param {Number} $x
 /// @param {Number} $n
@@ -57,7 +57,8 @@
   @return $ret;
 }
 
-'''
+```
+<br>
 Deep Get/Set in Maps [https://css-tricks.com/snippets/sass/deep-getset-maps/]
 
 
