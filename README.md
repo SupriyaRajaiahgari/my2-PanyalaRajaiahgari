@@ -17,6 +17,16 @@
 
  [Link to MyStats](MyStats.md)
 
+ *****
+ #### Creating a Table
+
+ | Name of the sport | Reason | Avg hours/week |
+ | ----------------- | ------ | -------------- |
+ | Running           | Running can improve physical fitness of the person. Physical fitness is most important in our day-to-day life    |  4hrs    |
+ | Chess           | By playing Chess we can improve our mental ability and Time Management skills. Every Child in this generation need to be involve in this sport     |  5    |
+ | Cricket          | Cricket is my favorite sport so i recommend this sport     |  4    |
+
+
 
 
 
