@@ -26,6 +26,12 @@
  | Chess           | By playing Chess we can improve our mental ability and Time Management skills. Every Child in this generation need to be involve in this sport.     |  5hrs    |
  | Cricket          | Cricket is my favorite sport so i recommend this sport.     |  4hrs   |
 
+ *****
+ #### Adding Quotes by Scientists that I like
+ > The love of money is the root of all evil. - **The Bible**
+
+ > Three can keep a secret, if vtwo of them are dead. - **Benjamin Franklin**
+
 
 
 
