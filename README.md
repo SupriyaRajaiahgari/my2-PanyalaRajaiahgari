@@ -28,9 +28,9 @@
 
  *****
  #### Adding Quotes by Scientists that I like
- > "The love of money is the root of all evil." - **The Bible**
+ > "The love of money is the root of all evil." - *The Bible*
 
- > "Three can keep a secret, if vtwo of them are dead." - **Benjamin Franklin**
+ > "Three can keep a secret, if vtwo of them are dead." - *Benjamin Franklin*
 
 
 
