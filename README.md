@@ -20,6 +20,8 @@
  *****
  #### Creating a Table
 
+ The below table shows the different kind of sports and reason for why we need to play the sports and an average hours that we need to engage on sports per week.
+
  | Name of the sport | Reason | Avg hours/week |
  | ----------------- | ------ | -------------- |
  | Running           | Running can improve physical fitness of the person. Physical fitness is most important in our day-to-day life.    |  4hrs    |
