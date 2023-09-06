@@ -15,7 +15,7 @@
  * Croissants
  * Escargots
 
- [Link to MyStats](MyStats.md)
+ [Link MyStats](MyStats.md)
 
  *****
  #### Creating a Table
